@@ -1,5 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstae1102&count_bg=%2379C83D&title_bg=%23000000&icon=smugmug.svg&icon_color=%23F4FFAA&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# RESUME
+
+https://emphasized-outrigger-045.notion.site/c9f33f3caedb4cd5a91a09fe9f74d3c4
+
 # STACKS
 
 ## Data Science
