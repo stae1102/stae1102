@@ -37,3 +37,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stae1102&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=stae1102)](https://solved.ac/stae1102)
