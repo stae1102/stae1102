@@ -22,14 +22,27 @@ https://emphasized-outrigger-045.notion.site/c9f33f3caedb4cd5a91a09fe9f74d3c4
 ## Backend
 
 <div align=center>
+  <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+  <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  </div>
 </div>
+
+## BlockChain
+
+<div align=center>
+  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+</div>
+
+<div align=center>
 
 <!---
 stae1102/stae1102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,3 +53,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stae1102)](https://solved.ac/stae1102)
+  
+</div>
