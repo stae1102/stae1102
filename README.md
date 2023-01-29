@@ -17,8 +17,9 @@
 
 #### Project
 
-- Depromeet 12th 6team Ticlemoa 아티클 아카이빙/공유 서비스
-- Sambakja 개인 별 운동 식단 주문 서비스
+- Depromeet 12th Ticlemoa - 아티클 아카이빙/공유 서비스
+- Sambakja - 개인 별 운동 식단 주문 서비스
+- Sparcs Startup hackathon - Surround SNS 기반 블록체인 음원 스트리밍 플랫폼
 
 #### Club
 
