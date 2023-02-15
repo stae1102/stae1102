@@ -2,7 +2,7 @@
 
 ### ☀️ Hello World
 
-나는 개발이 좋아요.
+나는 개발이 좋아요. 끌끌끌,,,,
 
 ### 🛠️ STACKS
 
@@ -10,7 +10,7 @@
 - Server Framework: NestJS, Express.js
 - Database: MySQL, PostgreSQL, Redis
 - Container: Docker, Docker-Compose
-- Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR
+- Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR, AWS ALB, AWS Route 53, AWS ACM + 비용 책정 경험
 - ORM: TypeORM, Prisma
 
 ### 🏃🏻 Activity
@@ -24,7 +24,7 @@
 #### Club
 
 - Depromeet 12th Server Developer
-- Depromeet 13th Staff
+- Depromeet 13th Culture Department Executive with PM
 
 #### Experiences
 
@@ -32,7 +32,10 @@
 - 네이버 부스트코스 코칭스터디 PY4E(Python for everyone) 코딩코치
 - 모두의연구소 '쿠버네티스는 처음이라' 퍼실리테이터
 - 원티드 프리온보딩 백엔드코스
+- 네이터 커넥트재단 부스트코스 코칭스터디 우수 학습자 선정
 - 모두의연구소 '모두를 위한 CI/CD' 퍼실리테이터
+- 네이버 부스트코스 코칭스터디 AI Basic 코딩코치
+- K-Mooc X Udemy 우수 학습자 선정(인터뷰 영상: )
 
 <div align=center>
 
