@@ -2,16 +2,23 @@
 
 ### ☀️ Hello World
 
-나는 개발이 좋아요. 끌끌끌,,,,
+나는 개발이 좋아요. 끌끌끌,,,
+
+제 꿈은 노드계의 김영한 선생님입니다. 제 이름을 들으면 누구나 화들짝 놀라는 그런 사람이 되고 싶습니다.
+너 턴태라고 알아? (화들짝 놀라며😱)
+
+정진하는 모습 보여드리겠습니다. 감사합니다.
 
 ### 🛠️ STACKS
 
 - Language: Python, JavaScript, TypeScript, Solidity
+- Web Framework: React.js
 - Server Framework: NestJS, Express.js
 - Database: MySQL, PostgreSQL, Redis
 - Container: Docker, Docker-Compose
 - Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR, AWS ALB, AWS Route 53, AWS ACM + 비용 책정 경험
 - ORM: TypeORM, Prisma
+- DevOps: GitHub Actions, Nginx
 
 ### 🏃🏻 Activity
 
