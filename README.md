@@ -11,7 +11,7 @@
 ### 🛠️ STACKS
 
 - Language: Python, JavaScript, TypeScript, Solidity
-- Web Framework: React.js
+- Web Framework: React.js, Redux
 - Server Framework: NestJS, Express.js
 - Database: MySQL, PostgreSQL, Redis
 - Container: Docker, Docker-Compose
