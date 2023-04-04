@@ -34,7 +34,7 @@
 
 #### Experiences
 
-- 네이버 부스트코스 코칭스터디 HTML/CSS 코딩코치
+- 네이버 부스트코스 코칭스터디 HTML/CSS 코딩코치(https://youtu.be/a5hgDnx-Djw)
 - 네이버 부스트코스 코칭스터디 PY4E(Python for everyone) 코딩코치
 - 모두의연구소 '쿠버네티스는 처음이라' 퍼실리테이터
 - 원티드 프리온보딩 백엔드코스
