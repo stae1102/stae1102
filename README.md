@@ -10,9 +10,9 @@
 
 ### 🛠️ STACKS
 
-- Language: Python, JavaScript, TypeScript
+- Language: Python, JavaScript, TypeScript, Rust
 - Web Framework: React.js, Redux, NextJS
-- Server Framework: NestJS, Express.js
+- Server Framework: NestJS, Express.js, Axum
 - Database: MySQL, PostgreSQL, Redis
 - Container: Docker, Docker-Compose
 - Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR, AWS ALB, AWS Route 53, AWS ACM + 비용 책정 경험
@@ -23,14 +23,15 @@
 
 #### Project
 
-- Depromeet 12th Ticlemoa - 아티클 아카이빙/공유 서비스
-- Sambakja - 개인 별 운동 식단 주문 서비스
-- Sparcs Startup hackathon - Surround SNS 기반 블록체인 음원 스트리밍 플랫폼
+- Depromeet 13th Insight-out - 자기소개서 작성 보조 서비스 (2023.4.3 ~ 2023.7.22)
+- Sparcs Startup hackathon - Surround SNS 기반 블록체인 음원 스트리밍 플랫폼 (2023.1.27 ~ 2023.1.29)
+- Depromeet 12th Ticlemoa - 아티클 아카이빙/공유 서비스 (2022.9.3 ~ 2023.1.14)
+- Sambakja - 개인 별 운동 식단 주문 서비스 (2022.10.1 ~ )
 
 #### Club
 
 - Depromeet 12th Server Developer
-- Depromeet 13th Culture Department Executive with PM
+- Depromeet 13th Culture Department Executive with PM, 4team Insight-out Team Leader
 
 #### Experiences
 
