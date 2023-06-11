@@ -42,7 +42,7 @@
 - 네이터 커넥트재단 부스트코스 코칭스터디 우수 학습자 선정
 - 모두의연구소 '모두를 위한 CI/CD' 퍼실리테이터
 - 네이버 부스트코스 코칭스터디 AI Basic 코딩코치
-- K-Mooc X Udemy 우수 학습자 선정(인터뷰 영상: )
+- K-Mooc X Udemy 우수 학습자 선정
 
 <div align=center>
 
@@ -57,7 +57,3 @@ You can click the Preview link to take a look at your changes.
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stae1102)](https://solved.ac/stae1102)
   
 </div>
-
-# RESUME
-
-https://emphasized-outrigger-045.notion.site/c9f33f3caedb4cd5a91a09fe9f74d3c4
