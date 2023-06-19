@@ -8,6 +8,8 @@
 
 정진하는 모습 보여드리겠습니다. 감사합니다.
 
+---
+
 ### 🛠️ STACKS
 
 - Language: Python, JavaScript, TypeScript, Rust
@@ -18,6 +20,14 @@
 - Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR, AWS ALB, AWS Route 53, AWS ACM + 비용 책정 경험
 - ORM: TypeORM, Prisma
 - DevOps: GitHub Actions, Nginx
+
+---
+
+### 💼 Career
+
+- Nuvilabs Backend Engineer Intern (2023.1.25 ~ 2023.7.24)
+
+---
 
 ### 🏃🏻 Activity
 
