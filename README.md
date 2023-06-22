@@ -14,7 +14,7 @@
 
 - Language: Python, JavaScript, TypeScript, Rust
 - Web Framework: React.js, Redux, NextJS
-- Server Framework: NestJS, Express.js, Axum
+- Server Framework: NestJS, Express.js(Inversify), Axum
 - Database: MySQL, PostgreSQL, Redis
 - Container: Docker, Docker-Compose
 - Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR, AWS ALB, AWS Route 53, AWS ACM + 비용 책정 경험
