@@ -33,7 +33,7 @@
 
 #### Project
 
-- Depromeet 13th Insight-out - 자기소개서 작성 보조 서비스 (2023.4.3 ~ 2023.7.22)
+- Depromeet 13th Insight-out - 자기소개서 작성 보조 서비스 (2023.4.3 ~ )
 - Sparcs Startup hackathon - Surround SNS 기반 블록체인 음원 스트리밍 플랫폼 (2023.1.27 ~ 2023.1.29)
 - Depromeet 12th Ticlemoa - 아티클 아카이빙/공유 서비스 (2022.9.3 ~ 2023.1.14)
 - Sambakja - 개인 별 운동 식단 주문 서비스 (2022.10.1 ~ )
