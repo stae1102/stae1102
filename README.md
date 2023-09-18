@@ -12,13 +12,13 @@
 
 ### 🛠️ STACKS
 
-- Language: Python, JavaScript, TypeScript, Rust
+- Language: Python, JavaScript, TypeScript, Rust, Java, Kotlin
 - Web Framework: React.js, Redux, NextJS
-- Server Framework: NestJS, Express.js(Inversify), Axum
-- Database: MySQL, PostgreSQL, Redis
+- Server Framework: NestJS, Express.js(Inversify), Axum, Spring, Spring boot
+- Database: MySQL, PostgreSQL, Redis, Flyway
 - Container: Docker, Docker-Compose
 - Cloud: AWS EC2, AWS EB, AWS S3, AWS CodeDeploy, AWS ECR, AWS ALB, AWS Route 53, AWS ACM + 비용 책정 경험
-- ORM: TypeORM, Prisma
+- ORM: TypeORM, Prisma, JPA
 - DevOps: GitHub Actions, Nginx
 
 ---
