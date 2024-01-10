@@ -12,6 +12,7 @@
 
 ### 💼 Career
 
+- Wrtn Technologies Backend Engineer Intern (2024.1.15 ~ )
 - Nuvilabs Backend Engineer Intern (2023.1.25 ~ 2023.7.24)
 
 ---
@@ -20,7 +21,8 @@
 
 #### 프로젝트
 
-- 왁물원 WakMeQueue - 트위치 스트리머 우왁굳 관련 소식 알림 서비스(2023.9.14~)
+- 퀵카이브 Quick Archive - AI 아티클 저장 서비스(2024.1.1 ~ )
+- 왁물원 WakMeQueue - 트위치 스트리머 우왁굳 관련 소식 알림 서비스(2023.9.14 ~)
 - OSS 23'멘티 Simperby 챌린저(2023.7.8 ~ 2023.10.17)
 - 디프만 13기 인사이트 아웃(Insight out) - 자기소개서 작성 보조 서비스(2023.4.3 ~ 2023.7.24) - **최우수상🏆**
 - Sparcs Startup 해커톤 Surround - SNS 기반 블록체인 음원 스트리밍 플랫폼(2023.1.27 ~ 2023.1.29)
