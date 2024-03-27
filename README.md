@@ -30,6 +30,7 @@
 
 #### 동아리
 
+- 사이프 2기
 - 디프만 13기 운영진, 4팀 Insight-out 팀장, Server Developer(2023.4.3 ~ 2023.7.22)
 - 디프만 12기 Server Developer(2022.9.3 ~ 2023.1.14)
 
