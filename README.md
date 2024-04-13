@@ -1,6 +1,9 @@
+![03_Linkedin Cover](https://github.com/stae1102/stae1102/assets/83271772/76c3ede0-33e8-4be0-86fb-e51ff1887f73)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstae1102&count_bg=%2379C83D&title_bg=%23000000&icon=smugmug.svg&icon_color=%23F4FFAA&title=HITs&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🛠️ 기술스택
+
 
 - Language: Python, JavaScript, TypeScript, Java, Kotlin
 - Server Framework: NestJS, Express.js(Inversify), Spring
