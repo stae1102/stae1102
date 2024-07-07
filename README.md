@@ -15,7 +15,8 @@
 
 ### 💼 Career
 
-- Wrtn Technologies Backend Engineer Intern (2024.1.15 ~ )
+- Wrtn Technologies Backend Engineer (2024.4.15 ~ )
+- Wrtn Technologies Backend Engineer Intern (2024.1.15 ~ 2024.4.15)
 - Nuvilabs Backend Engineer Intern (2023.1.25 ~ 2023.7.24)
 
 ---
